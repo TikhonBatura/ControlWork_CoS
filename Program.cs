@@ -38,7 +38,7 @@
                 if (length < 4 && length > 0)
                 {
                     string v = array[i];
-                    resultArray[0] = v;
+                    resultArray[j] = v;
                     j++;
                 }
             }
